@@ -153,6 +153,7 @@ li a {
   background-color: #3882f6;
   padding: 40px 60px;
   display: flex;
+  justify-content: space-between;
 }
 
 .call-title {
