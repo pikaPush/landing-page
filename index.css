@@ -102,6 +102,7 @@ li a {
 
 .info {
   /* width: 170px; */
+  display: flex;
 }
 
 .title-information {
