@@ -68,3 +68,7 @@ li a {
 .image .placeholder {
   color: #e5e7eb;
 }
+
+.hero button {
+  background-color: #3882f6;
+}
