@@ -90,4 +90,5 @@ li a {
   width: 120px;
   height: 120px;
   border: 3px solid #3882f6;
+  border-radius: 10px;
 }
