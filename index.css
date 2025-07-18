@@ -98,3 +98,7 @@ li a {
   gap: 16px;
   justify-content: center;
 }
+
+.info {
+  width: 200px;
+}
