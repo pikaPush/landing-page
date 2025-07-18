@@ -60,6 +60,7 @@ li a {
   height: 200px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .image .placeholder {
