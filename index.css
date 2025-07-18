@@ -123,6 +123,8 @@ li a {
 .quotations {
   background-color: #e5e7eb;
   padding: 50px;
+  display: flex;
+  justify-content: center;
 }
 
 .quotes {
