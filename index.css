@@ -156,6 +156,7 @@ li a {
   justify-content: space-between;
   width: 900px;
   margin: 90px auto;
+  border-radius: 8px;
 }
 
 .call-title {
