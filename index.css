@@ -154,6 +154,8 @@ li a {
   padding: 40px 60px;
   display: flex;
   justify-content: space-between;
+  width: 900px;
+  margin: 50px auto;
 }
 
 .call-title {
