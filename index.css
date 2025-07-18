@@ -103,6 +103,7 @@ li a {
 .info {
   /* width: 170px; */
   display: flex;
+  flex-direction: column;
 }
 
 .title-information {
