@@ -97,6 +97,7 @@ li a {
   display: flex;
   gap: 16px;
   justify-content: center;
+  margin-bottom: 80px;
 }
 
 .info {
