@@ -42,12 +42,3 @@ li a {
 .hero {
   display: flex;
 }
-
-.hero .image {
-  width: 400px;
-  height: 200px;
-}
-
-.image img {
-  max-width: 100%;
-}
