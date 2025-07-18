@@ -41,6 +41,7 @@ li a {
 
 .hero {
   display: flex;
+  justify-content: space-between;
 }
 
 .title {
