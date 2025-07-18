@@ -95,13 +95,13 @@ li a {
 
 .container-info {
   display: flex;
-  /* gap: 9px; */
+  gap: 16px;
   justify-content: center;
   margin-bottom: 80px;
 }
 
 .info {
-  width: 180px;
+  /* width: 170px; */
 }
 
 .title-information {
