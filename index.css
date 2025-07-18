@@ -95,7 +95,7 @@ li a {
 
 .container-info {
   display: flex;
-  gap: 16px;
+  /* gap: 9px; */
   justify-content: center;
   margin-bottom: 80px;
 }
